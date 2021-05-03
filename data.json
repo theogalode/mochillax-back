@@ -1,0 +1,335 @@
+[
+  {
+    "id": 0,
+    "name": "Promociones",
+    "type": "category",
+    "items": [
+      {
+        "id": 0,
+        "name": "Ultimas ofertas",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Novedades",
+    "type": "category",
+    "items": [
+      {
+        "id": 0,
+        "name": "Esta semana",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Temporadas",
+    "type": "category",
+    "items": [
+      {
+        "id": 0,
+        "name": "Primavera",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 1,
+        "name": "Verano",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 2,
+        "name": "Otoño",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 3,
+        "name": "Invierno",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mochilas",
+    "items": [
+      {
+        "id": 0,
+        "name": "Susuchon o Woot",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 1,
+        "name": "Susu",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 2,
+        "name": "Kapatera",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 3,
+        "name": "Susuainiakajatu",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 4,
+        "name": "Bolsos Maikisia",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 5,
+        "name": "Piula o Kattowi",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 6,
+        "name": "Susu Uttiakajamatu",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 7,
+        "name": "Pequeños",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      },
+      {
+        "id": 8,
+        "name": "Medianos",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": [
+          {
+            "id": 0,
+            "name": "Orgullosol",
+            "type": "item",
+            "image_url": "https://static.smallable.com/1221447-thickbox/sac-medium.jpg",
+            "description": "Es la descripción de la mochila.",
+            "signification_tags": ["amor", "suerte", "lucheza"],
+            "colors": ["azul", "amarillo", "blanco"],
+            "patterns": [1, 5],
+            "categories": ["Mochilas", "Susu", "Medianos"],
+            "price": 99.99,
+            "price_unit": "$",
+            "localization": "Riohacha",
+            "weaver_name": "Ana",
+            "weaver_image": "https://weaver_image",
+            "width": 30,
+            "depth": 60,
+            "published": true,
+            "selled": false,
+            "created_at": "2021-03-18",
+            "updated_at": "2021-03-18"
+          },
+          {
+            "id": 1,
+            "name": "HolaChic",
+            "type": "item",
+            "image_url": "https://static.smallable.com/1221447-thickbox/sac-medium.jpg",
+            "description": "Es la descripción de la mochila.",
+            "price": 99.99,
+            "price_unit": "$",
+            "created_at": "2021-03-18",
+            "updated_at": "2021-03-18"
+          },
+          {
+            "id": 2,
+            "name": "Amoro",
+            "type": "item",
+            "image_url": "https://static.smallable.com/1221447-thickbox/sac-medium.jpg",
+            "description": "Es la descripción de la mochila.",
+            "price": 99.99,
+            "price_unit": "$",
+            "created_at": "2021-03-18",
+            "updated_at": "2021-03-18"
+          },
+          {
+            "id": 3,
+            "name": "Entendí",
+            "type": "item",
+            "image_url": "https://static.smallable.com/1221447-thickbox/sac-medium.jpg",
+            "description": "Es la descripción de la mochila.",
+            "price": 99.99,
+            "price_unit": "$",
+            "created_at": "2021-03-18",
+            "updated_at": "2021-03-18"
+          },
+          {
+            "id": 4,
+            "name": "Reinahacha",
+            "type": "item",
+            "image_url": "https://static.smallable.com/1221447-thickbox/sac-medium.jpg",
+            "description": "Es la descripción de la mochila.",
+            "price": 99.99,
+            "price_unit": "$",
+            "created_at": "2021-03-18",
+            "updated_at": "2021-03-18"
+          },
+          {
+            "id": 5,
+            "name": "Seguide'oro",
+            "type": "item",
+            "image_url": "https://static.smallable.com/1221447-thickbox/sac-medium.jpg",
+            "description": "Es la descripción de la mochila.",
+            "price": 99.99,
+            "price_unit": "$",
+            "created_at": "2021-03-18",
+            "updated_at": "2021-03-18"
+          },
+          {
+            "id": 6,
+            "name": "Clarita",
+            "type": "item",
+            "image_url": "https://static.smallable.com/1221447-thickbox/sac-medium.jpg",
+            "description": "Es la descripción de la mochila.",
+            "price": 99.99,
+            "price_unit": "$",
+            "created_at": "2021-03-18",
+            "updated_at": "2021-03-18"
+          },
+          {
+            "id": 7,
+            "name": "Adelantuosa",
+            "type": "item",
+            "image_url": "https://static.smallable.com/1221447-thickbox/sac-medium.jpg",
+            "description": "Es la descripción de la mochila.",
+            "price": 99.99,
+            "price_unit": "$",
+            "created_at": "2021-03-18",
+            "updated_at": "2021-03-18"
+          },
+          {
+            "id": 8,
+            "name": "Talentoxica",
+            "type": "item",
+            "image_url": "https://static.smallable.com/1221447-thickbox/sac-medium.jpg",
+            "description": "Es la descripción de la mochila.",
+            "price": 99.99,
+            "price_unit": "$",
+            "created_at": "2021-03-18",
+            "updated_at": "2021-03-18"
+          },
+          {
+            "id": 9,
+            "name": "Milagros",
+            "type": "item",
+            "image_url": "https://static.smallable.com/1221447-thickbox/sac-medium.jpg",
+            "description": "Es la descripción de la mochila.",
+            "price": 99.99,
+            "price_unit": "$",
+            "created_at": "2021-03-18",
+            "updated_at": "2021-03-18"
+          }
+        ]
+      }
+      ,
+      {
+        "id": 9,
+        "name": "Grandes",
+        "type": "sub_category",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vestidos",
+    "type": "category",
+    "items": [
+      {
+        "id": 0,
+        "name": "Mantas Wayuu",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Zapatos",
+    "type": "category",
+    "items": [
+      {
+        "id": 0,
+        "name": "Sandalias",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Hamacas",
+    "type": "category",
+    "items": []
+  },
+  {
+    "id": 7,
+    "name": "Accesorios",
+    "type": "category",
+    "items": [
+      {
+        "id": 0,
+        "name": "Collares Wayuu",
+        "description": "Eu cupidatat occaecat ad adipisicing sit et irure anim. Laboris culpa incididunt non sit elit laborum non sunt. Nostrud nulla ipsum exercitation velit in sint. Culpa ullamco sunt esse incididunt. Proident nisi ea officia minim.",
+        "type": "sub_category",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Tejidas",
+    "type": "category",
+    "items": []
+  },
+  {
+    "id": 9,
+    "name": "Paquete aprendizaje",
+    "type": "category",
+    "items": []
+  },
+  {
+    "id": 10,
+    "name": "Mi mochila personalizada",
+    "type": "category",
+    "items": []
+  }
+]
+  
+
+
+
+
+

@@ -2,6 +2,20 @@ drop table if exists sub_categories;
 drop table if exists categories;
 drop table if exists items;
 
+create table delivery_data(
+	id SERIAL primary key,
+  email VARCHAR(50) not null,
+	firstname VARCHAR(50) not null,
+	lastname VARCHAR(30) not null,
+  delivery_address VARCHAR(100),
+  city VARCHAR(100),
+  zipcode INTEGER,
+  phone VARCHAR(30),
+  usual_information VARCHAR(50),
+  payement_method SMALLINT,
+  delivery_method SMALLINT
+);
+
 create table categories(
 	id SERIAL primary key,
 	name VARCHAR(50) not null unique,
@@ -106,12 +120,68 @@ VALUES (
   'HolaChic', 
   'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJN_2p0enpNI04yZHvtdtSjiI4U3BMMXSlcA1_L48S6rDT4yxwZkwHXtl4SYE&usqp=CAc',
   'Es la descripción de la mochila.',
+  73,
+  'Riohacha'
+);
+
+INSERT INTO products(
+  name, 
+  image_url, 
+  description, 
+  price, 
+  localization) 
+VALUES (
+  'Amoro', 
+  'https://i.etsystatic.com/20848284/r/il/ca2eba/3031806115/il_1588xN.3031806115_qxba.jpg',
+  'Es la descripción de la mochila.',
+  70,
+  'Riohacha'
+);
+
+INSERT INTO products(
+  name, 
+  image_url, 
+  description, 
+  price, 
+  localization) 
+VALUES (
+  'Entendí', 
+  'https://i.etsystatic.com/22423187/r/il/2b888b/3109094973/il_1588xN.3109094973_7ndd.jpg',
+  'Es la descripción de la mochila.',
   70.45,
   'Riohacha'
 );
 
-INSERT INTO category_products (product_id, category_id) VALUES (1, 5);
-INSERT INTO category_products (product_id, category_id) VALUES (2, 5);
+INSERT INTO products(
+  name, 
+  image_url, 
+  description, 
+  price, 
+  localization) 
+VALUES (
+  'Reinahacha', 
+  'https://i.etsystatic.com/iap/5d8062/3025705322/iap_640x640.3025705322_5thx2rqa.jpg?version=0',
+  'Es la descripción de la mochila.',
+  95,
+  'Riohacha'
+);
+
+INSERT INTO products(
+  name, 
+  image_url, 
+  description, 
+  price, 
+  localization) 
+VALUES (
+  'Seguide oro', 
+  'https://colombia.com.co/wp-content/uploads/2020/06/Mochila-Wayuu-Tejido-Bogota-Marketplace-Colombia-00.jpg',
+  'Es la descripción de la mochila.',
+  54.45,
+  'Riohacha'
+);
+
+INSERT INTO category_products (product_id, category_id) VALUES (1, 4);
+INSERT INTO category_products (product_id, category_id) VALUES (2, 4);
 INSERT INTO category_products (product_id, category_id) VALUES (1, 1);
 INSERT INTO category_products (product_id, category_id) VALUES (2, 2);
 
